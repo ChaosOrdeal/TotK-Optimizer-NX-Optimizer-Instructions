@@ -6,4 +6,4 @@ A one-page document to help with installation/use.
 - run NXO after installing an applicable emulator and game, while the emu is not running
 - if it seems to be ignoring new settings, delete the .ini in the .exe's folder and re-apply both the Manager and the Cheat mods
 
-![NX Optimizer](./NX Optimizer.jpg)
+![NX Optimizer](NX%20Optimizer.jpg)
